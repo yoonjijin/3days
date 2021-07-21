@@ -92,6 +92,7 @@ body{
 }
 
 #tab2:checked ~ .container > .logo,
+#tab2:checked ~ .container > .buttons > .next3,
 #tab2:checked ~ .container > .buttons > .next3 > .a {
     display: block;
     animation: bgappear 1.5s linear;
